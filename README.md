@@ -6,29 +6,20 @@ Basicly GAPPS, but all apps are open source and not Google apps
 
 ## All the apps used in FOSSGAPPS:
 
-QKMSM
+[QKMSM](https://github.com/moezbhatti/qksms)  
+[Koler](https://github.com/Chooloo/call_manage)  
+[Lawnchair](https://github.com/raphtlw/Lawnchair)  
+[Quickswitch](https://github.com/skittles9823/QuickSwitch)  
+[Etar](https://github.com/Etar-Group/Etar-Calendar)  
+[Metro Music](https://github.com/MuntashirAkon/Metro)  
+[Ice Raven](https://github.com/fork-maintainers/iceraven-browser)  
+[K9-Mail](https://k9mail.app/)  
+[Ncalc](https://github.com/tranleduy2000/ncalc)  
+[Open Camera](https://opencamera.org.uk/)  
+[F-Droid](https://f-droid.org/)  
+[Vanced Manager](https://github.com/YTVanced/VancedManager)
 
-Koler
 
-Lawnchair
-
-Quickswitch
-
-Etar
-
-Metro Music
-
-Ice Raven
-
-K9-Mail
-
-Ncalc
-
-Open Camera
-
-F-Droid
-
-Vanced Manager
 
 FOSSAPPS can be flashed with TWRP when flashing a rom, or can be flashed with Magisk.
 
