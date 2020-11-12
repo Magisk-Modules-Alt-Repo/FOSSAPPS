@@ -30,3 +30,8 @@ F-Droid
 
 Vanced Manager
 
+FOSSAPPS can be flashed with TWRP when flashing a rom, or can be flashed with Magisk.
+
+It doesn't need to be flashed when you flash a rom. It can be flashed whenever and uninstalled whenever.
+
+Please note that this does not remove/replace your stock apps. You will have to do that yourself. I will make a feature to do this In the future
