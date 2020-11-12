@@ -17,7 +17,7 @@ Basicly GAPPS, but all apps are open source and not Google apps
 [Ncalc](https://github.com/tranleduy2000/ncalc)  
 [Open Camera](https://opencamera.org.uk/)  
 [F-Droid](https://f-droid.org/)  
-[Vanced Manager](https://github.com/YTVanced/VancedManager)
+[NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
 ## Requirements:
 
