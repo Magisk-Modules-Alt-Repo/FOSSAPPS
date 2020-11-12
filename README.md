@@ -4,7 +4,7 @@ Free and Open Source GAPPS Alternative
 
 Basicly GAPPS, but all apps are open source and not Google apps
 
-## All the apps used in FOSSGAPPS:
+## All the apps used in FOSSAPPS:
 
 [QKMSM](https://github.com/moezbhatti/qksms)  
 [Koler](https://github.com/Chooloo/call_manage)  
