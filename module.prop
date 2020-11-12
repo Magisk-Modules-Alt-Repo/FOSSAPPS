@@ -1,6 +1,6 @@
 id=FOSSAPPS
-name=FOSSAPPS-TEST
-version=v0.1
+name=FOSSAPPS
+version=v1.0
 versionCode=050620
 author=Wacko1805
-description=FOSSAPPS
+description=Basicly GAPPS, but all apps are open source and not Google apps
