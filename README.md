@@ -18,6 +18,7 @@ Basicly GAPPS, but all apps are open source and not Google apps
 [Open Camera](https://opencamera.org.uk/)  
 [F-Droid](https://f-droid.org/)  
 [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+[MicroG](https://github.com/microg/)
 
 ## Requirements:
 
