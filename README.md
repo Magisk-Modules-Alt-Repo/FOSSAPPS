@@ -4,6 +4,15 @@ Free and Open Source GAPPS Alternative
 
 Basicly GAPPS, but all apps are open source and not Google apps
 
+## I need your help! If you can, please fill out my survey!
+
+ The survey helps me understand what users want from FOSSAPPS so i can make better updates in the future
+
+[survey](https://forms.gle/LdYKSE4owmpXYc9S8)
+
+
+
+
 ## All the apps used in FOSSAPPS:
 
 [QKMSM](https://github.com/moezbhatti/qksms)  
@@ -18,6 +27,7 @@ Basicly GAPPS, but all apps are open source and not Google apps
 [Open Camera](https://opencamera.org.uk/)  
 [F-Droid](https://f-droid.org/)  
 [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+
 [MicroG](https://github.com/microg/)
 
 ## Requirements:
