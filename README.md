@@ -1,4 +1,4 @@
-# FOSSAPPS
+# FOSSAPPS Beta
 
 Free and Open Source GAPPS Alternative
 
