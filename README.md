@@ -54,4 +54,6 @@ Please note that this does not remove/replace your stock apps. You will have to 
    * [Magisk](https://github.com/topjohnwu/Magisk) by [topjohnwu](https://github.com/topjohnwu)
    * [Module Template](https://github.com/gedoor/magisk-module-template) by [gedoor](https://github.com/gedoor)
  
+ ## License
  
+ FOSSAPPS is released under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
