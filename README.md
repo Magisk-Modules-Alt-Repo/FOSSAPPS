@@ -4,9 +4,9 @@ Free and Open Source GAPPS Alternative
 
 Basicly GAPPS, but all apps are open source and not Google apps
 
-## If you can, please fill out my survey!
+## I need your help! If you can, please fill out my survey!
 
-I need your help! The survey helps me understand what users want from FOSSAPPS so i can make better updates in the future
+ The survey helps me understand what users want from FOSSAPPS so i can make better updates in the future
 
 [survey](https://forms.gle/LdYKSE4owmpXYc9S8)
 
