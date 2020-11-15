@@ -21,7 +21,7 @@ Basicly GAPPS, but all apps are open source and not Google apps
 [Quickswitch](https://github.com/skittles9823/QuickSwitch)  
 [Etar](https://github.com/Etar-Group/Etar-Calendar)  
 [Metro Music](https://github.com/MuntashirAkon/Metro)  
-[Ice Raven](https://github.com/fork-maintainers/iceraven-browser)  
+[Kiwi](https://github.com/kiwibrowser)  
 [K9-Mail](https://k9mail.app/)  
 [Ncalc](https://github.com/tranleduy2000/ncalc)  
 [Open Camera](https://opencamera.org.uk/)  
